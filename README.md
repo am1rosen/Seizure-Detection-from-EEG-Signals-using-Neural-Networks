@@ -1,0 +1,2 @@
+# Seizure-Detection-from-EEG-Signals-using-Neural-Networks
+Seizure detection is a crucial task in the field of medical diagnosis and patient care, as it helps in early identification and intervention for individuals at risk of epileptic seizures. This project aims to develop an advanced and accurate seizure detection system using neural networks and deep learning techniques applied to EEG signals.
